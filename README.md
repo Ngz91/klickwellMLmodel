@@ -4,8 +4,8 @@ A Machine Learning model capable of rearranging the results from Klickwell.
 Building Machine learning and neural networks models to predict the winner out of five horses.
 An attempt to rearrange the results given by the Klickwell method.
 
-Dataset of Venezuelan horse racing, collected and arranged by my father and me in our spare time, it gets
-updated almost every month with new data.
+Dataset of Venezuelan horse racing, collected and arranged by my father and i in our spare time, we ipdate it 
+almost every month with new data.
 
 Description of the features:
 - Fecha: Date of the race 
