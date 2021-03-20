@@ -1,5 +1,4 @@
 # klickwellMLmodel
-A Machine Learning model capable of rearranging the results from Klickwell. 
 
 Building Machine learning and neural networks models to predict the winner out of five horses.
 An attempt to rearrange the results given by the Klickwell method.
