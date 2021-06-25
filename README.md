@@ -1,10 +1,32 @@
-# klickwellMLmodel
+=======================================
+Klickwell Machine Learning and NN model
+=======================================
 
-Building Machine learning and neural networks models to predict the winner out of five horses.
-An attempt to rearrange the results given by the Klickwell method.
+Description
+===========
 
-Dataset of Venezuelan horse racing, collected and arranged by my father and i in our spare time, we ipdate it 
-almost every month with new data.
+After compiling some data about horse races in Venezuela, analysing, cleaning and transforming the data, I decided to build and test 2 models that could predict the outcome of a race, or at least get close to the real result. The database is available for download and use in a simple csv file, although, there might be some data missing about some races or the horses. Inside the notebook there's a full description of the steps taken. Some of them might change overtime as i'm still working in this project.
+
+Authors
+=======
+
+Nevio Gomez, 2020
+
+Requirements
+============
+
+* Python 3
+* Jupyter notebook (can be open in google colab)
+* Pandas
+* Numpy
+* Matplotlib
+* Scikit-Learn
+* Keras 2.3.0 (Tested with Theano, Tensorflow can be used)
+
+Notes
+=====
+
+Dataset of Venezuelan horse racing, collected and arranged by my father and i in our spare time, we update it almost every month with new data. (Due to problems with my main computer, the database will not be updated for some time or until i can recover the data from my main computer)
 
 Description of the features:
 - Fecha: Date of the race 
