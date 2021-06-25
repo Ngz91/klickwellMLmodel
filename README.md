@@ -5,7 +5,7 @@ Klickwell Machine Learning and NN model
 Description
 ===========
 
-After compiling some data about horse races in Venezuela, analysing, cleaning and transforming the data, I decided to build and test 2 models that could predict the outcome of a race, or at least get close to the real result. The database is available for download and use in a simple csv file, although, there might be some data missing about some races or the horses. Inside the notebook there's a full description of the steps taken. Some of them might change overtime as i'm still working in this project.
+After compiling some data about horse races in Venezuela, analysing, cleaning and transforming the data, I decided to build and test 2 models that could predict the outcome of a race, or at least get close to the real result. The database is available for download as a csv file, although, there might be some data missing about some races or the horses. Inside the notebook there's a full description of the steps taken. Some of them might change overtime as i'm still working in this project.
 
 Authors
 =======
