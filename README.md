@@ -1,4 +1,4 @@
-=======================================
+
 Klickwell Machine Learning and NN model
 =======================================
 
@@ -46,5 +46,3 @@ Description of the features:
 - jinete_act, jinete_gan, trainer_act, trainer_gan: startups of the jockey/trainer, wins of the jockey/trainer
 - jinete_rep_mon: if the jockey repeats the horse
 - resultados: results
-
-Pd. Some data may be missing (Ex. Some races don't have all the results)
