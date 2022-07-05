@@ -16,7 +16,7 @@ Requirements
 ============
 
 * Python 3
-* Jupyter notebook (can be open in google colab)
+* Jupyter notebook
 * Pandas
 * Numpy
 * Matplotlib
