@@ -15,7 +15,7 @@ Nevio Gomez, 2020
 Requirements
 ============
 
-* Python 3
+* Python 3.8
 * Jupyter notebook
 * Pandas
 * Numpy
